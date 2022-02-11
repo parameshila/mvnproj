@@ -27,7 +27,7 @@
       </table>
 
 
-<table width="40%" bgcolor="green" align="center" border="2">
+<table width="40%" bgcolor="grey" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>Details Login Page</b></font></center></td>
